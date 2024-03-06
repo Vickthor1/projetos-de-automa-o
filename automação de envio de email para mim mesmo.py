@@ -51,7 +51,7 @@ pyautogui.press('enter')
 
 pyautogui.press('tab')
 
-pyautogui.write('Panqueca')
+pyautogui.write('Escreva o que quer dizer aqui')
 
 pyautogui.hotkey('ctrl','enter')
 
